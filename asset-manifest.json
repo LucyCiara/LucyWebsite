@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LucyWebsite/static/css/main.5d2b5926.css",
-    "main.js": "/LucyWebsite/static/js/main.a9393bec.js",
+    "main.js": "/LucyWebsite/static/js/main.0c415b7e.js",
     "static/js/453.a4fe98c9.chunk.js": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js",
     "static/media/LucyBeach.png": "/LucyWebsite/static/media/LucyBeach.e8486a51cdd84d7d961b.png",
     "static/media/background.jpg": "/LucyWebsite/static/media/background.6ff307068e2fb7d41e44.jpg",
@@ -9,11 +9,11 @@
     "static/media/MapleMono[wght]-VF.woff2": "/LucyWebsite/static/media/MapleMono[wght]-VF.024df3306db30c519428.woff2",
     "index.html": "/LucyWebsite/index.html",
     "main.5d2b5926.css.map": "/LucyWebsite/static/css/main.5d2b5926.css.map",
-    "main.a9393bec.js.map": "/LucyWebsite/static/js/main.a9393bec.js.map",
+    "main.0c415b7e.js.map": "/LucyWebsite/static/js/main.0c415b7e.js.map",
     "453.a4fe98c9.chunk.js.map": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d2b5926.css",
-    "static/js/main.a9393bec.js"
+    "static/js/main.0c415b7e.js"
   ]
 }
