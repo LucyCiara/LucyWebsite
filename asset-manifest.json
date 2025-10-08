@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LucyWebsite/static/css/main.5d2b5926.css",
-    "main.js": "/LucyWebsite/static/js/main.0c415b7e.js",
-    "static/js/453.a4fe98c9.chunk.js": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js",
-    "static/media/LucyBeach.png": "/LucyWebsite/static/media/LucyBeach.e8486a51cdd84d7d961b.png",
-    "static/media/background.jpg": "/LucyWebsite/static/media/background.6ff307068e2fb7d41e44.jpg",
-    "static/media/MapleMono-Italic[wght]-VF.woff2": "/LucyWebsite/static/media/MapleMono-Italic[wght]-VF.fd2ee75b1e5faf3d6c41.woff2",
-    "static/media/MapleMono[wght]-VF.woff2": "/LucyWebsite/static/media/MapleMono[wght]-VF.024df3306db30c519428.woff2",
-    "index.html": "/LucyWebsite/index.html",
-    "main.5d2b5926.css.map": "/LucyWebsite/static/css/main.5d2b5926.css.map",
-    "main.0c415b7e.js.map": "/LucyWebsite/static/js/main.0c415b7e.js.map",
-    "453.a4fe98c9.chunk.js.map": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js.map"
+    "main.css": "/static/css/main.b3caec46.css",
+    "main.js": "/static/js/main.c57a3344.js",
+    "static/js/453.a4fe98c9.chunk.js": "/static/js/453.a4fe98c9.chunk.js",
+    "static/media/LucyBeach.png": "/static/media/LucyBeach.e8486a51cdd84d7d961b.png",
+    "static/media/background.jpg": "/static/media/background.6ff307068e2fb7d41e44.jpg",
+    "static/media/MapleMono-Italic[wght]-VF.woff2": "/static/media/MapleMono-Italic[wght]-VF.fd2ee75b1e5faf3d6c41.woff2",
+    "static/media/MapleMono[wght]-VF.woff2": "/static/media/MapleMono[wght]-VF.024df3306db30c519428.woff2",
+    "index.html": "/index.html",
+    "main.b3caec46.css.map": "/static/css/main.b3caec46.css.map",
+    "main.c57a3344.js.map": "/static/js/main.c57a3344.js.map",
+    "453.a4fe98c9.chunk.js.map": "/static/js/453.a4fe98c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d2b5926.css",
-    "static/js/main.0c415b7e.js"
+    "static/css/main.b3caec46.css",
+    "static/js/main.c57a3344.js"
   ]
 }
