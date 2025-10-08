@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+.PopOut {
+  border: solid;
+  border-color: black;
+  border-top-color: white;
+  border-left-color: white;
+  border-width: 0.5%;
+}
+
+/* .InSink {
+  outline: inset;
+  outline-color: white;
+  background-color: #B2B2B2;
+} */
+
+#Portrait {
+  width: 25vw;
+  margin-left: 12.5vw;
+}
+
+.InSinkContent {
+  position: relative;
+  left: 0.75%;
+  top: 1%;
+  outline: inset;
+  outline-width: auto;
+  outline-color: white;
+  border: inset;
+  border-width: 0.5%;
+  border-color: black;
+  width: 98%;
+}
+
+
+.Home {
+  background-color: #ff0000;
+  z-index: -1;
+}
+
+.Background {
+  background-image: image-set('./assets/background.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  left:0;
+  top:0;
+  z-index: 0;
+}
+
+
+.Headline {
+  font-family: 'MapleMono';
+  text-align: center;
+  padding: 5%;
+}
+
+.TextContents {
+  font-family: 'MapleMonoItalic';
+  word-wrap: break-word;
+  padding: 5%;
+}
+
+.TextPage {
+  position: relative;
+  width: 50%;
+  min-height: 100vh;
+  background-color: #E7CFB1;
+  margin-left: 25%;
+  margin-top: 5%;
+  z-index: 1;
+}
+
+@font-face {
+  font-family: 'MapleMono';
+  src: local('MapleMono'), url(./assets/MapleMono[wght]-VF.woff2) format('woff2');  
+}
+
+@font-face {
+  font-family: 'MapleMonoItalic';
+  src: local('MapleMonoItalic'), url(./assets/MapleMono-Italic[wght]-VF.woff2) format('woff2');  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
