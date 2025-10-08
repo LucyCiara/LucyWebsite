@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LucyWebsite/static/css/main.f855e6bc.css",
+    "main.js": "/LucyWebsite/static/js/main.d8d91923.js",
+    "static/js/453.a4fe98c9.chunk.js": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js",
+    "static/media/logo.svg": "/LucyWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LucyWebsite/index.html",
+    "main.f855e6bc.css.map": "/LucyWebsite/static/css/main.f855e6bc.css.map",
+    "main.d8d91923.js.map": "/LucyWebsite/static/js/main.d8d91923.js.map",
+    "453.a4fe98c9.chunk.js.map": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d8d91923.js"
+  ]
+}
