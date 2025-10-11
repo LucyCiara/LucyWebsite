@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/LucyWebsite/static/css/main.ff219dc0.css",
-    "main.js": "/LucyWebsite/static/js/main.a687f71a.js",
+    "main.css": "/LucyWebsite/static/css/main.c1d55ae2.css",
+    "main.js": "/LucyWebsite/static/js/main.922a2689.js",
     "static/js/453.a4fe98c9.chunk.js": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js",
     "static/media/LucyBeach.png": "/LucyWebsite/static/media/LucyBeach.e8486a51cdd84d7d961b.png",
     "static/media/background.jpg": "/LucyWebsite/static/media/background.6ff307068e2fb7d41e44.jpg",
     "static/media/MapleMono-Italic[wght]-VF.woff2": "/LucyWebsite/static/media/MapleMono-Italic[wght]-VF.fd2ee75b1e5faf3d6c41.woff2",
     "static/media/MapleMono[wght]-VF.woff2": "/LucyWebsite/static/media/MapleMono[wght]-VF.024df3306db30c519428.woff2",
+    "static/media/198-1984828_java-icon-transparent-hd-png-download-1592478804.png": "/LucyWebsite/static/media/198-1984828_java-icon-transparent-hd-png-download-1592478804.e3250affb3dc873945e6.png",
     "static/media/89133_wm_lego-mindstorms-ev3-support-gallery-image1-1277491368.jpg": "/LucyWebsite/static/media/89133_wm_lego-mindstorms-ev3-support-gallery-image1-1277491368.a88d364b57d93df7dfb4.jpg",
     "index.html": "/LucyWebsite/index.html",
-    "main.ff219dc0.css.map": "/LucyWebsite/static/css/main.ff219dc0.css.map",
-    "main.a687f71a.js.map": "/LucyWebsite/static/js/main.a687f71a.js.map",
+    "main.c1d55ae2.css.map": "/LucyWebsite/static/css/main.c1d55ae2.css.map",
+    "main.922a2689.js.map": "/LucyWebsite/static/js/main.922a2689.js.map",
     "453.a4fe98c9.chunk.js.map": "/LucyWebsite/static/js/453.a4fe98c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff219dc0.css",
-    "static/js/main.a687f71a.js"
+    "static/css/main.c1d55ae2.css",
+    "static/js/main.922a2689.js"
   ]
 }
