@@ -3,13 +3,16 @@ import ReactDOM from 'react-dom/client';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import About from './pages/About';
+import LegoProject from './pages/LegoProject'
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const router = createBrowserRouter([
-  { path: "/", element: <Home /> },
-  { path: "/projects", element: <Projects /> },
-  { path: "/about", element: <About /> }
+  { path: "/LucyWebsite", element: <Home /> },
+  { path: "/LucyWebsite/projects", element: <Projects /> },
+  { path: "/LucyWebsite/about", element: <About /> },
+  { path: "/LucyWebsite/lego-project", element: <LegoProject /> },
+  
 ]);
 
 const root = ReactDOM.createRoot(
