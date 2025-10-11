@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Projects from './pages/Projects';
 import About from './pages/About';
 import LegoProject from './pages/LegoProject'
+import JavaProject from './pages/JavaProject';
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
@@ -12,6 +13,7 @@ const router = createBrowserRouter([
   { path: "/LucyWebsite/projects", element: <Projects /> },
   { path: "/LucyWebsite/about", element: <About /> },
   { path: "/LucyWebsite/lego-project", element: <LegoProject /> },
+  { path: "/LucyWebsite/java-project", element: <JavaProject /> },
   
 ]);
 
