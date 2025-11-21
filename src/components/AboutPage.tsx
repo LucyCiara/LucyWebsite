@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import LucyImage from '../assets/LucyBeach.png'
+import LucyImage from '../assets/LucyBeach.png';
 
 function AboutPage() {
   return (
